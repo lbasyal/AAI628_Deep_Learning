@@ -1,2 +1,4 @@
 # AAI628_Deep_Learning
-AAI628 Deep Learning Google Colab works, NLP, CNN, TensorFlow ...
+
+This repository contains the work I completed on deep learning during my graduate studies at the Stevens Institute of Technology. The experiments were performed using Google Colab Notebook.
+
